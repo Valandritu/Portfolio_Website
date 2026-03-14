@@ -15,6 +15,9 @@ This is my personal portfolio website built to showcase my projects, skills, and
 - JavaScript
 - Font Awesome Icons
 
+## 🌐 Live Website
+https://ritu-valand-portfolio.netlify.app/
+
 ## 📂 Pages
 - Home
 - About
